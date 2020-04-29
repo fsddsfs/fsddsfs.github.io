@@ -3,6 +3,7 @@
 }
 .container{
   width: 90%;
+  max-width: 1400px;
   margin: 25px auto;
 }
 .logo{
@@ -46,6 +47,7 @@ header a{
 /*写真*/
 .pic{
   width: 100%;
+  max-width: 1500px;
   text-align: center;
 }
 
